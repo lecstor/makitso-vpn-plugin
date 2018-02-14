@@ -1,0 +1,28 @@
+{
+  "name": "makitso-vpn-plugin",
+  "version": "3.0.1",
+  "description": "Makitso plugin - Login to your 2FA VPN with Tunnelblick or Viscosity",
+  "main": "index.js",
+  "author": "jason@lecstor.com",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lecstor/makitso-vpn-plugin.git"
+  },
+  "devDependencies": {
+    "eslint": "^4.9.0",
+    "eslint-config-prettier": "^2.6.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-config-standard-jsdoc": "^0.3.2",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-promise": "^3.6.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.7.4"
+  },
+  "dependencies": {
+    "keytar": "^4.1.0",
+    "shelljs": "^0.7.8"
+  }
+}

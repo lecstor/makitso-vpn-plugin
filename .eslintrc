@@ -1,0 +1,7 @@
+{
+  "extends": ["standard", "prettier", "prettier/standard"],
+  "rules": {
+    "curly": ["error", "all"],
+    "valid-jsdoc": 2
+  }
+}
