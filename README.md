@@ -1,7 +1,9 @@
-# Makitso 2FA VPN Plugin
+# Makitso plugin
+
+Manage your 2FA VPN connections with Tunnelblick or Viscosity
 
 A tool to make it just a little easier to connect to a VPN which requires that
-the pasword be a concatination of a static password and a @FA token.
+the pasword be a concatination of a static password and a 2FA token.
 
 ## Provides Commands
 

@@ -1,7 +1,8 @@
 {
   "name": "makitso-vpn-plugin",
   "version": "3.0.1",
-  "description": "Makitso plugin - Login to your 2FA VPN with Tunnelblick or Viscosity",
+  "description":
+    "Makitso plugin - Manage your 2FA VPN connections with Tunnelblick or Viscosity",
   "main": "index.js",
   "author": "jason@lecstor.com",
   "license": "MIT",
